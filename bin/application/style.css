@@ -1,0 +1,11 @@
+.turnExeGreen {
+	-fx-background-color:#22B000;
+}
+
+.turnExeRed {
+	-fx-background-color:#FF0000;
+}
+
+.turnExeOrange {
+	-fx-background-color:#E86F0C;
+}
